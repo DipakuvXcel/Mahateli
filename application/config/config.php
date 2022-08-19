@@ -25,7 +25,7 @@ date_default_timezone_set('Asia/Kolkata');
 |
 */
 
-define('base_url', 'http://localhost/mahateli/');
+define('base_url', 'http://20.40.51.144/mahateli/');
 define('assets_path',base_url.'assets/');
 define('upload_path',base_url.'uploads/');
 define('site_path',base_url.'assets/site/');
