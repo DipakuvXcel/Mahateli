@@ -1,0 +1,255 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+	color: #333;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin: 30px 0 60px;
+}
+h2::after {
+	content: "";
+	width: 100px;
+	position: absolute;
+	margin: 0 auto;
+	height: 3px;
+	background: #8fbc54;
+	left: 0;
+	right: 0;
+	bottom: -10px;
+}
+.col-center {
+	margin: 0 auto;
+	float: none !important;
+}
+.carousel {
+	margin: 50px auto;
+	padding: 0 70px;
+}
+.carousel .item {
+	color: #999;
+	font-size: 14px;
+    text-align: center;
+	overflow: hidden;
+    min-height: 290px;
+}
+.carousel .item .img-box {
+	width: 135px;
+	height: 135px;
+	margin: 0 auto;
+	padding: 5px;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+}
+.carousel .img-box img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	border-radius: 50%;
+}
+.carousel .testimonial {
+	padding: 30px 0 10px;
+}
+.carousel .overview {	
+	font-style: italic;
+}
+.carousel .overview b {
+	text-transform: uppercase;
+	color: #7AA641;
+}
+.carousel .carousel-control {
+	width: 40px;
+    height: 40px;
+    margin-top: -20px;
+    top: 50%;
+	background: none;
+}
+.carousel-control i {
+    font-size: 68px;
+	line-height: 42px;
+    position: absolute;
+    display: inline-block;
+	color: rgba(0, 0, 0, 0.8);
+    text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+}
+.carousel .carousel-indicators {
+	bottom: -40px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+	width: 10px;
+	height: 10px;
+	margin: 1px 3px;
+	border-radius: 50%;
+}
+.carousel-indicators li {	
+	background: #999;
+	border-color: transparent;
+	box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.carousel-indicators li.active {	
+	background: #555;		
+	box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.videosize{
+	height:550px;
+}
+.blog-height{
+	height: 420px;
+}
+.becomep{
+	height: 387px;
+}
+
+@media only screen and (max-width: 420px) {
+ 
+	.videoclass{
+		width:330px !important;
+	}
+	.videosize{
+		height:350px;
+	}
+	.formd{
+		margin-left: 0%!important ;
+	   
+	}
+	.hidden-blog{
+		display:none;
+	}
+	.blog-height{
+		height: 300px;
+	}
+	.becomep{
+		height: 270px;
+	}
+}
+.formd{
+    margin-left: 22%;
+    margin-top: 4%;
+}
+.videoclass{
+    width: 1170px;
+}
+
+ 
+
+.persent{
+background: #8e8e8e;
+padding: 3px 7px 3px 10px;
+z-index: 100;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #fff;
+font-weight: 600;
+
+justify-content: center;
+align-items: center;
+width: 50px;
+height: 22px;
+border-radius: 11px;
+
+top: 12px;
+left: 12px;
+
+}
+.persent1{
+background: #f1a831b8;
+z-index: 100;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+color: #fff;
+font-weight: 600;
+display: -webkit-box;
+display: -webkit-flex;
+display: -moz-box;
+display: -ms-flexbox;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 50px;
+height: 22px;
+
+position: absolute;
+top: 12px;
+left: 12px;
+
+}
+
+.persent2{
+	background: #dc615fb8;
+	z-index: 100;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #fff;
+	font-weight: 600;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 105px;
+	border-radius:5px;
+	padding: 0px 0px 0px 4px;
+	height: 25px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+}
+
+
+.youtube {
+    background-color: #000;
+    margin-bottom: 30px;
+    position: relative;
+    padding-top: 56.25%;
+    overflow: hidden;
+    cursor: pointer;
+}
+.youtube img {
+    width: 100%;
+    top: -16.82%;
+    left: 0;
+    opacity: 0.7;
+}
+.youtube .play-button {
+    width: 90px;
+    height: 60px;
+    background-color: #333;
+    box-shadow: 0 0 30px rgba( 0,0,0,0.6 );
+    z-index: 1;
+    opacity: 0.8;
+    border-radius: 6px;
+}
+.youtube .play-button:before {
+    content: "";
+    border-style: solid;
+    border-width: 15px 0 15px 26.0px;
+    border-color: transparent transparent transparent #fff;
+}
+.youtube img,
+.youtube .play-button {
+    cursor: pointer;
+}
+.youtube img,
+.youtube iframe,
+.youtube .play-button,
+.youtube .play-button:before {
+    position: absolute;
+}
+.youtube .play-button,
+.youtube .play-button:before {
+    top: 50%;
+    left: 50%;
+    transform: translate3d( -50%, -50%, 0 );
+}
+.youtube iframe {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}

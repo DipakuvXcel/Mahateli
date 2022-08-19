@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://20.40.51.144/mahateli/</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/about-us</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/products</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/authenticate</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/blogs</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/contact-us</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/offers</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/login</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/registration</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/cart</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/checkout</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/videos</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/sitemap</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/faq</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/privacy-policy</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/terms-conditions</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/forgot_password</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/frontend/guest_user</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://20.40.51.144/mahateli/frontend/blog_details/index.html</loc>
+  <lastmod>2019-12-02T06:45:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

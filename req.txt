@@ -1,0 +1,15 @@
+1) Payment Gateway - Do you use  any payment gateway to accept orders (like PayuMoney, PayPal or any Banks payment gateway)? if yes, please provide that payment gateway details.
+
+2) Order Amount - How to calculate Order Amount? for ex. product cost + tax + (do you have any delivery charges). If order have delivery charges then how you calculate it? (do you defined delivery charges based on pincode ?)
+
+3) Authenticate - Product authentication done by system automatically OR Admin will do manually? In authentication user entered code and system automatically verify with product code and reply to user OR admin check code manually and reply to user on mail/sms?
+
+4) When user want to become Dealer/Distributor only request accept and admin will register. (Parameter for dealer/distributor registration- Name, Contact, Email, Store Name, Area/Location, City, State, Country, Pincode, Address)
+
+5) Do you have any Coupon related plan and procedure? if yes then provide details.
+
+8) Provide Terms & condition and Privacy policy information.
+
+9) Provide Contact number, Mail-id, Address also provide social media pages links.
+
+10) If you have any Info about the individual/Peoples associated with your Brands then please provide deatils.
